@@ -10,6 +10,9 @@ To these ends, I propose containing individual USB connectors on daughterboards 
 
 The current board utilizes an RP2040.
 
+![Preview 1](preview1.png)
+![Preview 2](preview2.png)
+
 Layout Compatibility:
 - F12/13
 - 6.25U/7U
@@ -22,3 +25,7 @@ Lighting:
 - Per-key THT LED
 - Indicator THT LED
 - Backlit SMD LED
+
+# To Be Done
+
+Resolve shortness of pin-length on connecter boards / program lighting.
