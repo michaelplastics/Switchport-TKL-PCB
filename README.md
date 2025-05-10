@@ -10,8 +10,8 @@ To these ends, I propose containing individual USB connectors on daughterboards 
 
 The current board utilizes an RP2040.
 
-![Preview 1](preview1.png)
-![Preview 2](preview2.png)
+![Preview 1](preview1.jpg)
+![Preview 2](preview2.jpg)
 
 Layout Compatibility:
 - F12/13
