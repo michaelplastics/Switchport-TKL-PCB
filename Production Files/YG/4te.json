@@ -1,0 +1,71 @@
+{
+	"backDrillFlag" : 0,
+	"backOrderType" : -1,
+	"backSingleFlag" : false,
+	"board_type" : "FR-4",
+	"color_screen_printing" : false,
+	"color_sm" : "绿色",
+	"color_ss" : "白色",
+	"counterBoreAngle" : 0,
+	"coverlayColor" : "黄色",
+	"cu_inner" : 1.0,
+	"cu_outer" : 1.0,
+	"dir_input" : "E:\\ybc\\5544524a_y4\\pcb_5544524a_y4",
+	"earthing" : 0,
+	"eda_type" : "KiCAD",
+	"finished" : "沉金",
+	"fpcSpecialBaseMaterial" : 1,
+	"freedMaterailFlag" : false,
+	"gold_finger_bevel" : 0,
+	"halfhole" : 0,
+	"isMadeSmt" : true,
+	"is_octagonal_pad" : 0,
+	"layers" : 2,
+	"orderReinforceList" : 
+	[
+		{
+			"reinforceThickness" : "不需要",
+			"reinforceType" : 3
+		},
+		{
+			"reinforceThickness" : "不需要",
+			"reinforceType" : 1
+		},
+		{
+			"reinforceThickness" : "不需要",
+			"reinforceType" : 4
+		},
+		{
+			"reinforceThickness" : "不需要",
+			"reinforceType" : 2
+		}
+	],
+	"orderRemark" : "[系统自动追加：本订单在嘉立创SMT贴片，请检查工艺边和Mark复核要求，如果没有，请添加]标准型SMT，已在11.75CM方向加2条0.50CM工艺边;，且已收费。工艺边建议实际加在不影响器件焊接的那边。;内含4款;",
+	"orig_type" : "未知",
+	"paiclMoney" : 868.0,
+	"pcbFileName" : "GERBER_Y4",
+	"po" : "5544524a_y4",
+	"po_id" : 0,
+	"pressfit" : 0,
+	"print_customer_code" : 1,
+	"print_date_info" : 0,
+	"profile_layer" : "ko",
+	"profile_type" : 1,
+	"qrCodeFlag" : false,
+	"qrCodeSize" : 0,
+	"qr_code_position" : 0,
+	"realSmtQrCodeSize" : 0,
+	"reinforceWithSilkscreenFlag" : 0,
+	"shippingMethod" : 2,
+	"size_x" : 35.979999999999997,
+	"size_y" : 12.75,
+	"small_batch" : false,
+	"smtProcessRoute" : 3,
+	"smtSerialFlag" : 0,
+	"technicalEditFlag" : false,
+	"thickness" : 1.6000000000000001,
+	"thirdPartyPuzzleFlag" : false,
+	"trace_code_print_type" : 3,
+	"via" : "过孔开窗",
+	"windowHoleFlag" : 0
+}
